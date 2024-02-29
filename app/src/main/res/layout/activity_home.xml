@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal_200"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/title1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="8dp"
+        android:text="E-SMS PORTAL"
+        android:textColor="@color/colorRed"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/mamboz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/image"
+        android:layout_below="@+id/title1"
+        android:layout_marginTop="28dp"
+        android:gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="Welcome to the E-SMS Portal App – your all-in-one solution for efficient and seamless SMS communication. Our application empowers users to send and receive SMS messages with ease, ensuring a reliable and convenient messaging experience. Whether you're an individual user or a business looking for a robust SMS solution, our portal has you covered."
+        android:textColor="@color/black"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="406dp"
+        android:layout_above="@+id/bottomNavigationView"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/b" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorWhite"
+        app:itemIconTint="@color/colorRed"
+        app:itemTextColor="@color/colorRed"
+        app:labelVisibilityMode="labeled"
+        app:menu="@menu/main_drawer_menu" />
+
+</RelativeLayout>

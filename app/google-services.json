@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340023533607",
+    "project_id": "esms-bb190",
+    "storage_bucket": "esms-bb190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340023533607:android:0f4ffad0a1fe56b563ee02",
+        "android_client_info": {
+          "package_name": "com.example.esms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-wIJN7z56I8YgJxRQT7svpJhviy118Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
