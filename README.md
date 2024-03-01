@@ -17,10 +17,7 @@ The E-SMS Portal App offers a range of powerful features to enhance your SMS com
 ### Getting Started with SMS
 
 1. **Create an Account:** Sign up for a new account on our portal or log in if you already have one.
-
-2. **Top Up Credits:** Add credits to your account to start sending messages.
-
-3. **Compose and Send SMS:**
+2. **Compose and Send SMS:**
    - Compose your messages using the intuitive interface.
    - Select recipients or groups from your contact list.
    - Hit send to deliver your messages instantly.
