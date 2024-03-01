@@ -29,9 +29,6 @@ The E-SMS Portal App offers a range of powerful features to enhance your SMS com
    - Use the scheduling feature to plan messages for future delivery.
    - Set the date and time for your messages to be sent automatically.
 
-5. **Monitor Delivery Reports:**
-   - Access real-time delivery reports to track the status of your sent messages.
-   - Ensure that your messages reach their intended recipients.
 
 ## Who Can Benefit from SMS Features?
 
