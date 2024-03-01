@@ -25,9 +25,6 @@ The E-SMS Portal App offers a range of powerful features to enhance your SMS com
    - Select recipients or groups from your contact list.
    - Hit send to deliver your messages instantly.
 
-4. **Schedule Messages:**
-   - Use the scheduling feature to plan messages for future delivery.
-   - Set the date and time for your messages to be sent automatically.
 
 
 ## Who Can Benefit from SMS Features?
